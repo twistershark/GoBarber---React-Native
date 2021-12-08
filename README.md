@@ -32,7 +32,7 @@
 
 ## 📋 About
 
-A **React Native** app design to help barber shop customers to create an appointment with their favorite barber. It also helps the barber to control all his appointments.
+A **React Native** app designed to help barber shop customers to create an appointment with their favorite barber. It also helps the barber to control all his appointments.
 Build with **Typescript**!
 
 ---
