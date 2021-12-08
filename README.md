@@ -61,10 +61,10 @@ Build with **Typescript**!
 ```sh
 
   # Clone the repository
-  $ git clone https://github.com/twistershark/GoBarber---React-Native.git
+  $ git clone https://github.com/twistershark/GoBarber-React-Native.git
 
   # Enter the repository
-  $ cd GoBarber---React-Native
+  $ cd GoBarber-React-Native
 
   # install all depencies
   $ yarn
