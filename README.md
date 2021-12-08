@@ -3,16 +3,17 @@
   <img alt="Capa" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/capa.png" />
 </p>
 
-<p>
-  <img alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber1.png" />
-  <img alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber2.png" />
-  <img alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber3.png" />
-  </p>
-  <p>
-  <img alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber4.png" />
-  <img alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber5.png" />
-  <img alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber6.png" />
-  </p>
+
+<p align="center">
+  <img width="200px"  alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber1.png" />
+  <img width="200px" alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber2.png" />
+  <img width="200px" alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber3.png" />
+</p>
+<p align="center">
+  <img width="200px" alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber4.png" />
+  <img width="200px" alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber5.png" />
+  <img width="200px" alt="GoBarber" src="https://github.com/twistershark/GoBarber---React-Native/blob/master/assets/gobarber6.png" />
+</p>
 
 
 
